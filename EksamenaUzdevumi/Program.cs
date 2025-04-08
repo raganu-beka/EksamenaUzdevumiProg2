@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            var a = new Kubs();
-            a.MalasGarums = 1245125;
-            Console.WriteLine("aaaaaaaa");
+            var kubg = new Kubs(10, "zaļa");
+            var kubr = new Kubs(1, "sarkana");
+
         }
     }
 

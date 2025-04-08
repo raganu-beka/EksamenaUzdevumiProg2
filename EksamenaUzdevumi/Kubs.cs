@@ -15,7 +15,7 @@ namespace EksamenaUzdevumi
                 } 
                 else
                 {
-                    throw new Exception("Nepareizs malas garums");
+                    malasGarums = 2;
                 }
             }
         }
