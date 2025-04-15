@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace EksamenaUzdevumi
 {
-    class Program
+    class UniversityTask
     {
 
         static async Task Main(string[] args)
